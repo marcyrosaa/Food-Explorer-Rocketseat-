@@ -57,8 +57,7 @@ ___
 
 Clone o projeto para o local desejado em seu computador.
 
-```bash
-$ https://github.com/marcyrosaa/Food-Explorer-Rocketseat-.git
+```bash $ https://github.com/marcyrosaa/Food-Explorer-Rocketseat-.git
 ```
 ___
 
